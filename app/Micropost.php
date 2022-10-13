@@ -3,7 +3,9 @@
 namespace App;
 
 use Illuminate\Database\Eloquent\Model;
-
+//use App\Micropost;
+//use Auth;
+//use Validator;
 class Micropost extends Model
 {
     //
